@@ -4,7 +4,7 @@ import { connect } from "cloudflare:sockets";
 
 // Variables
 const rootDomain = "muriavpn.workers.dev"; // Ganti dengan domain utama kalian
-const serviceName = "fatwa"; // Ganti dengan nama workers kalian
+const serviceName = "mahardika"; // Ganti dengan nama workers kalian
 const apiKey = "fe1a20bd9fbd7595db14d90138c50c8e62bdd"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "madjidhariadi5@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "2e02ea9d3e939545bc8179c671699cae"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
