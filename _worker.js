@@ -3,7 +3,7 @@ import { connect } from "cloudflare:sockets";
 // import { Buffer } from "node:buffer";
 
 // Variables
-const rootDomain = "fatwamuriavpn.workers.dev"; // Ganti dengan domain utama kalian
+const rootDomain = "muriavpn.workers.dev"; // Ganti dengan domain utama kalian
 const serviceName = "fatwa"; // Ganti dengan nama workers kalian
 const apiKey = "fe1a20bd9fbd7595db14d90138c50c8e62bdd"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "madjidhariadi5@gmail.com"; // Ganti dengan email yang kalian gunakan
