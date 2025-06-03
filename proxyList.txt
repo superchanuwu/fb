@@ -1,3 +1,5 @@
+149.129.249.145,443,ID,Alibaba
+149.129.250.8,443,ID,Alibaba
 5.44.42.166,2053,AE,Global Connectivity Solutions Llp
 176.97.66.175,443,AE,3nt solutions LLP
 176.97.78.80,2053,AE,IROKO Networks Corporation
