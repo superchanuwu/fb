@@ -2608,6 +2608,7 @@
 5.182.38.183,443,HU,PQ HOSTING PLUS S.R.L.
 77.91.72.82,443,HU,PQ HOSTING PLUS S.R.L.
 149.129.250.8,443,ID,21/F, Ciputra World 1 (DBS Tower), JalanProf. DR. Satrio Kav 3-5, Jakarta 12940, Indonesia
+149.129.249.145,443,ID,21/F, Ciputra World 1 (DBS Tower), JalanProf. DR. Satrio Kav 3-5, Jakarta 12940, Indonesia
 172.232.239.151,587,ID,Akamai Connected Cloud
 43.218.77.16,1443,ID,Amazon.com, Inc.
 43.218.77.16,443,ID,Amazon.com
