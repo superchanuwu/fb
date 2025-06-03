@@ -1,3 +1,5 @@
+149.129.249.145,443,ID,Alibaba
+149.129.250.8,443,ID,Alibaba
 185.169.107.233,443,AE,Digital City FZE
 185.169.107.99,443,AE,Digital City FZE
 195.246.110.155,8443,AE,365partners
@@ -12514,4 +12516,4 @@
 152.32.255.24,587,VN,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 103.15.90.134,49678,VN,Vietnam Posts And Telecommunications Group
 38.54.30.6,443,VN,Kaopu Cloud HK Limited
-4.221.60.243,2053,ZA,Microsoft Corporation
+4.221.60.243,2053,ZA,Microsoft Corporation
