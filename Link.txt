@@ -1,1 +1,5 @@
 https://bgp.he.net/AS13335#_prefixes6
+
+
+
+https://chriskirby.net/replace-your-homelab-vpn-with-cloudflare-zero-trust/
