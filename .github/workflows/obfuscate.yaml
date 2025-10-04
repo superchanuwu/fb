@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - "_worker.js"
+      - "saya.js"
 jobs:
   scanner:
     runs-on: ubuntu-latest
